@@ -40,7 +40,7 @@ letters = [["branches", "gałęzie"], ["whether", "czy"], ["substitute", "zastą
 ["assets", "aktywa"], ["starve", "głodować"], ["curve", "krzywa"], ["curvature", "krzywizna"], ["gather", "zbierać"], ["solely", "wyłącznie"], ["overdrive", "zajeździć"], ["ray tracing", "śledzenie promieni"], ["spooky", "upiorny"], ["fulfillment", "spełnienie"], ["dents", "wgniecenia"], ["upon", "od"], ["encountered", "spotykany"], ["foreign", "obcy"], ["handle it", "poradzić sobie z tym"], ["unsettling", "niepokojący"], ["credits", "zasługi"], ["curtain", "zasłaniać"],
 ["hint", "wskazówka"], ["tarnish", "zmatowienie"], ["mindscape", "krajobraz umysłu"], ["retention", "zatrzymanie"], ["acquisition", "nabytek"], ["discoverability", "odkrywalność"], ["the vast", "ogromny"], ["funfair", "wesołe miasteczko"], ["overhead", "nad głową"], ["buckle up", "wziąć się do roboty"], ["lit up", "naćpany"], ["demystify", ["demistyfikować", "objaśniać"]], ["hands-on", "praktyczny"], ["wrap it up", ["zawiń to", "zakończyć"]],
 ["pipeline", "rurociąg"], ["coverage", "zasięg"], ["cover", "relacjonować"], ["intimate", "intymne"], ["smithing", "kucie"], ["smith", "kowal"], ["match", "pasować"], ["traces", "ślady"], ["cashing", "spieniężanie"], ["mimic", "imitować"], ["trailer park", "park przyczep kempingowych"], ["conducting", "przeprowadzanie"], ["subspecies", "podgatunek"], ["consistent", "spójny"], ["overall", "ogólnie"], ["accelerate", "przyspieszać"], ["oftentimes", "częstokroć"], ["broadest", "najszerszy"],
-["preserve", ["utrwalać", "konserwa"]], ["insights", "spostrzeżenia"]]
+["preserve", ["utrwalać", "konserwa"]], ["insights", "spostrzeżenia"], ["rely", "polegać"], ["resilient", "odporny"]]
 
 start = input("POL - UK ? : ")
 
