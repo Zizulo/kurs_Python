@@ -165,8 +165,8 @@ from bp_car import Car
 #         print("--", end="")
 #     print()
 
-# fruits = ["apple", "coconut", "orange", "lemon"]
-# fruits.sort()
+fruits = ["apple", "coconut", "orange", "lemon"]
+fruits.sort()
 # fruits.reverse()
 # print(fruits)
 
